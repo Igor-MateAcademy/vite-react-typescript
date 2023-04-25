@@ -5,7 +5,7 @@ module.exports = {
     "tabWidth": 2,
     "proseWrap": "preserve",
     "arrowParens": "avoid",
-    "semi": true,
+    "semi": false,
     "printWidth": 120,
     "endOfLine": "auto",
     "prettier.cssEnable": [
